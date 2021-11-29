@@ -39,7 +39,7 @@ var base = `https://gist.github.com/`
 var PROP = { aredits: '917356145338,0' }
 var unlink = `019112af334adceaefd1467dcbd93e58` 
 var PROP2 = { kl11: '917356145338,0' }
-var string = base + `chikkiz`
+var string = base + `chikkuz`
         
 // Yalnızca bir kolaylık. https://stackoverflow.com/questions/4974238/javascript-equivalent-of-pythons-format-function //
 String.prototype.format = function () {
